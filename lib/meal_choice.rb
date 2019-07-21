@@ -1,7 +1,7 @@
 require 'spec_helper'
 def protein
   puts "meat"
-end 
+end
 
 veg1 = "broccoli"
 veg2 = "macaroni"
