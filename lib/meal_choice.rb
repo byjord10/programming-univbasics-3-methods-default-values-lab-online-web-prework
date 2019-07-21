@@ -1,4 +1,3 @@
-# Your code here
 require 'spec_helper'
 
 veg1 = "broccoli"
